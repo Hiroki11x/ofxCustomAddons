@@ -1,0 +1,5 @@
+ofxGreenscreen
+ofxMSAInteractiveObject
+ofxOpenCv
+ofxSimpleGuiToo
+ofxXmlSettings

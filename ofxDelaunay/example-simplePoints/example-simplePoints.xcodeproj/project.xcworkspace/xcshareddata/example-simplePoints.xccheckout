@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8D0BB2F2-B146-49D8-BBB6-E426F939A112</string>
+	<key>IDESourceControlProjectName</key>
+	<string>example-simplePoints</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B98E3CFEC6501A75CC8123C65E3620511AA66D21</key>
+		<string>https://github.com/obviousjim/ofxDelaunay.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>example-simplePoints/example-simplePoints.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B98E3CFEC6501A75CC8123C65E3620511AA66D21</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/obviousjim/ofxDelaunay.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B98E3CFEC6501A75CC8123C65E3620511AA66D21</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B98E3CFEC6501A75CC8123C65E3620511AA66D21</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxDelaunay</string>
+		</dict>
+	</array>
+</dict>
+</plist>

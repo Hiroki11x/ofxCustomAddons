@@ -1,0 +1,4 @@
+ofxSSLManager
+=============
+
+SSL certificate Management.

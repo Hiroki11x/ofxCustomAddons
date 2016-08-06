@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3C37BB4441B284F1AB73624D82D0DF82CD8B90C2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8B2EF4DDF27ADA368AC10C6C218934DEB3A35A8C" : 0,
+    "3C37BB4441B284F1AB73624D82D0DF82CD8B90C2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FF72CCC5-4483-4BED-9BD7-AB5652B888DB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8B2EF4DDF27ADA368AC10C6C218934DEB3A35A8C" : "ofxFastFboReader\/",
+    "3C37BB4441B284F1AB73624D82D0DF82CD8B90C2" : "ofxEasyFboGlitch\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "glitchExample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "example\/glitchExample.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:saebashi\/ofxEasyFboGlitch.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3C37BB4441B284F1AB73624D82D0DF82CD8B90C2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:satoruhiga\/ofxFastFboReader.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8B2EF4DDF27ADA368AC10C6C218934DEB3A35A8C"
+    }
+  ]
+}

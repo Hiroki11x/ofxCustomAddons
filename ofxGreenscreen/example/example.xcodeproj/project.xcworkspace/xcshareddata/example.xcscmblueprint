@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E4E67DA87FE2F02D8D5182F6C8458FE33894CF4A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "ADACB6BAEA67271B9A2BF47167EA909FD6B0CF40" : 0,
+    "E4E67DA87FE2F02D8D5182F6C8458FE33894CF4A" : 0,
+    "611BE3E50886D611714AA25B7B86C978F1028A39" : 0,
+    "328B2D9D97956D43F1C477558678A6865720047A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F09E71F6-0006-4738-A78D-828CA19B00DD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "ADACB6BAEA67271B9A2BF47167EA909FD6B0CF40" : "ofxSimpleGuiToo\/",
+    "E4E67DA87FE2F02D8D5182F6C8458FE33894CF4A" : "ofxGreenscreen\/",
+    "611BE3E50886D611714AA25B7B86C978F1028A39" : "",
+    "328B2D9D97956D43F1C477558678A6865720047A" : "ofxMSAInteractiveObject\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "example",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "example\/example.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:memo\/ofxMSAInteractiveObject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "328B2D9D97956D43F1C477558678A6865720047A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Hiroki11x\/ofxCustomAddons.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "611BE3E50886D611714AA25B7B86C978F1028A39"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:memo\/ofxSimpleGuiToo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ADACB6BAEA67271B9A2BF47167EA909FD6B0CF40"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:underdoeg\/ofxGreenscreen.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E4E67DA87FE2F02D8D5182F6C8458FE33894CF4A"
+    }
+  ]
+}
